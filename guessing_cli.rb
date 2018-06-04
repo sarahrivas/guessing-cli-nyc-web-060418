@@ -10,4 +10,5 @@ def run_guessing_game
     end 
     user_response = gets.chomp 
   end
+  puts "Goodbye!"
 end
